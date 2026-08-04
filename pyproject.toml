@@ -1,0 +1,13 @@
+[project]
+name = "sports-elo"
+version = "0.1.0"
+description = "Incremental MLB and NFL Elo dashboard"
+requires-python = ">=3.11"
+dependencies = ["Jinja2>=3.1"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

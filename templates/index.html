@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#071425">
+  <title>Sports Elo — MLB & NFL Ratings</title>
+  <link rel="stylesheet" href="assets/site.css">
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+</head>
+<body>
+  <main class="shell">
+    <header class="masthead">
+      <div><p class="eyebrow">LIVE RATING INTELLIGENCE</p><h1>Sports <span>Elo</span></h1></div>
+      <p class="updated">Data refreshed daily<br><time>{{ built_at }}</time></p>
+    </header>
+    <nav class="league-tabs" aria-label="League dashboard">
+      {% for key, league in leagues.items() %}<a href="#{{ key }}" data-tab="{{ key }}" class="tab">{{ league.ratings.league|default(key|upper) }}</a>{% endfor %}
+    </nav>
+    {% for key, league in leagues.items() %}
+    <section id="{{ key }}" class="league-panel" data-panel="{{ key }}">
+      <div class="league-heading"><div><p class="eyebrow">{{ league.ratings.season|default(season) }} SEASON</p><h2>{{ key|upper }} Ratings</h2></div><p>{{ league.ratings.current|length }} teams tracked</p></div>
+      {% if league.ratings.current %}
+      <div class="cards">
+        <article class="metric"><span>Top rated</span><strong>{{ league.leader.name }}</strong><em>{{ "%.1f"|format(league.leader.rating) }} Elo</em></article>
+        <article class="metric"><span>Biggest mover</span><strong>{{ league.mover.name if league.mover else "—" }}</strong><em>{% if league.mover %}{{ "%+.1f"|format(league.mover.delta) }} Elo{% else %}Waiting for next checkpoint{% endif %}</em></article>
+        <article class="metric"><span>Rating spread</span><strong>{{ "%.1f"|format(league.spread) }}</strong><em>top to bottom</em></article>
+      </div>
+      <div class="dashboard-grid">
+        <article class="surface chart-surface"><div class="surface-title"><div><h3>Elo over time</h3><p>Select teams to compare their trajectory.</p></div><select aria-label="Teams to chart" class="team-picker" multiple data-picker="{{ key }}"></select></div><div class="chart" data-chart="{{ key }}"></div></article>
+        <article class="surface table-surface"><div class="surface-title"><div><h3>Current rankings</h3><p>Search or sort the league table.</p></div><input class="table-search" data-search="{{ key }}" placeholder="Find a team" aria-label="Find a team"></div><div class="table-wrap"><table data-table="{{ key }}"><thead><tr><th data-sort="rank">Rank</th><th>Team</th><th data-sort="rating">Elo</th><th data-sort="wins">Record</th></tr></thead><tbody>{% for team in league.ratings.current %}<tr><td>{{ team.rank }}</td><td class="team-cell">{% if team.logo %}<img src="{{ team.logo }}" alt="">{% else %}<span class="badge">{{ team.team }}</span>{% endif %}<span>{{ team.name }}</span></td><td>{{ "%.1f"|format(team.rating) }}</td><td>{{ team.wins }}–{{ team.losses }}{% if team.ties %}–{{ team.ties }}{% endif %}</td></tr>{% endfor %}</tbody></table></div></article>
+      </div>
+      {% else %}<article class="empty"><h3>Season data is not available yet</h3><p>The next scheduled refresh will populate this league after completed games are found.</p></article>{% endif %}
+    </section>
+    {% endfor %}
+  </main>
+  <script>window.SPORTS_ELO = {{ leagues|tojson }};</script>
+  <script src="assets/site.js"></script>
+</body>
+</html>
