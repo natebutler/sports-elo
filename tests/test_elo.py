@@ -4,6 +4,7 @@ from tempfile import TemporaryDirectory
 from unittest.mock import patch
 
 from sports_elo.elo import calculate_ratings, expected_score, replay_from_checkpoint, season_seed, update_pair
+from sports_elo.sources import _score
 from sports_elo.update import run_league, upsert_games
 
 
@@ -12,6 +13,12 @@ def game(game_id, played, home="A", away="B", home_score=1, away_score=0):
 
 
 class EloTests(unittest.TestCase):
+    def test_missing_api_score_is_rejected(self):
+        self.assertIsNone(_score(None))
+        self.assertIsNone(_score(""))
+        self.assertIsNone(_score("TBD"))
+        self.assertEqual(_score("12"), 12)
+
     def test_expected_score_is_balanced(self):
         self.assertEqual(expected_score(1500, 1500), 0.5)
 
