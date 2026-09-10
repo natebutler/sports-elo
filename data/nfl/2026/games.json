@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "away_logo": "",
+    "away_name": "New England Patriots",
+    "away_score": 10,
+    "away_team": "NE",
+    "date": "2026-09-10",
+    "home_logo": "",
+    "home_name": "Seattle Seahawks",
+    "home_score": 13,
+    "home_team": "SEA",
+    "id": "nfl-401872656",
+    "start_time": "2026-09-10T00:20Z"
+  }
+]
