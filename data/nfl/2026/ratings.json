@@ -1,5 +1,5 @@
 {
-  "changed_from": "2026-09-10",
+  "changed_from": "2026-09-11",
   "checkpoints": [
     {
       "checkpoint": "2026-W37",
@@ -8,8 +8,19 @@
           "checkpoint": "2026-W37",
           "logo": "",
           "losses": 0,
-          "name": "Seattle Seahawks",
+          "name": "San Francisco 49ers",
           "rank": 1,
+          "rating": 1513.9,
+          "team": "SF",
+          "ties": 0,
+          "wins": 1
+        },
+        {
+          "checkpoint": "2026-W37",
+          "logo": "",
+          "losses": 0,
+          "name": "Seattle Seahawks",
+          "rank": 2,
           "rating": 1511.1,
           "team": "SEA",
           "ties": 0,
@@ -20,9 +31,20 @@
           "logo": "",
           "losses": 1,
           "name": "New England Patriots",
-          "rank": 2,
+          "rank": 3,
           "rating": 1488.9,
           "team": "NE",
+          "ties": 0,
+          "wins": 0
+        },
+        {
+          "checkpoint": "2026-W37",
+          "logo": "",
+          "losses": 1,
+          "name": "Los Angeles Rams",
+          "rank": 4,
+          "rating": 1486.1,
+          "team": "LAR",
           "ties": 0,
           "wins": 0
         }
@@ -34,33 +56,19 @@
       "checkpoint": "2026-W37",
       "logo": "",
       "losses": 0,
-      "name": "Seattle Seahawks",
+      "name": "San Francisco 49ers",
       "rank": 1,
-      "rating": 1511.1,
-      "team": "SEA",
+      "rating": 1513.9,
+      "team": "SF",
       "ties": 0,
       "wins": 1
     },
-    {
-      "checkpoint": "2026-W37",
-      "logo": "",
-      "losses": 1,
-      "name": "New England Patriots",
-      "rank": 2,
-      "rating": 1488.9,
-      "team": "NE",
-      "ties": 0,
-      "wins": 0
-    }
-  ],
-  "generated_at": "2026-09-10T13:55:02.989269+00:00",
-  "history": [
     {
       "checkpoint": "2026-W37",
       "logo": "",
       "losses": 0,
       "name": "Seattle Seahawks",
-      "rank": 1,
+      "rank": 2,
       "rating": 1511.1,
       "team": "SEA",
       "ties": 0,
@@ -71,9 +79,67 @@
       "logo": "",
       "losses": 1,
       "name": "New England Patriots",
-      "rank": 2,
+      "rank": 3,
       "rating": 1488.9,
       "team": "NE",
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "checkpoint": "2026-W37",
+      "logo": "",
+      "losses": 1,
+      "name": "Los Angeles Rams",
+      "rank": 4,
+      "rating": 1486.1,
+      "team": "LAR",
+      "ties": 0,
+      "wins": 0
+    }
+  ],
+  "generated_at": "2026-09-11T13:55:01.320078+00:00",
+  "history": [
+    {
+      "checkpoint": "2026-W37",
+      "logo": "",
+      "losses": 0,
+      "name": "San Francisco 49ers",
+      "rank": 1,
+      "rating": 1513.9,
+      "team": "SF",
+      "ties": 0,
+      "wins": 1
+    },
+    {
+      "checkpoint": "2026-W37",
+      "logo": "",
+      "losses": 0,
+      "name": "Seattle Seahawks",
+      "rank": 2,
+      "rating": 1511.1,
+      "team": "SEA",
+      "ties": 0,
+      "wins": 1
+    },
+    {
+      "checkpoint": "2026-W37",
+      "logo": "",
+      "losses": 1,
+      "name": "New England Patriots",
+      "rank": 3,
+      "rating": 1488.9,
+      "team": "NE",
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "checkpoint": "2026-W37",
+      "logo": "",
+      "losses": 1,
+      "name": "Los Angeles Rams",
+      "rank": 4,
+      "rating": 1486.1,
+      "team": "LAR",
       "ties": 0,
       "wins": 0
     }

@@ -11,5 +11,18 @@
     "home_team": "SEA",
     "id": "nfl-401872656",
     "start_time": "2026-09-10T00:20Z"
+  },
+  {
+    "away_logo": "",
+    "away_name": "San Francisco 49ers",
+    "away_score": 27,
+    "away_team": "SF",
+    "date": "2026-09-11",
+    "home_logo": "",
+    "home_name": "Los Angeles Rams",
+    "home_score": 7,
+    "home_team": "LAR",
+    "id": "nfl-401872657",
+    "start_time": "2026-09-11T00:35Z"
   }
 ]

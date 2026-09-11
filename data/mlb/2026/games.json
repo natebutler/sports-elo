@@ -33148,5 +33148,70 @@
     "home_team": "119",
     "id": "mlb-823900",
     "start_time": "2026-09-10T02:10:00Z"
+  },
+  {
+    "away_logo": "",
+    "away_name": "Tampa Bay Rays",
+    "away_score": 1,
+    "away_team": "139",
+    "date": "2026-09-10",
+    "home_logo": "",
+    "home_name": "Atlanta Braves",
+    "home_score": 3,
+    "home_team": "144",
+    "id": "mlb-824872",
+    "start_time": "2026-09-10T16:15:00Z"
+  },
+  {
+    "away_logo": "",
+    "away_name": "Houston Astros",
+    "away_score": 2,
+    "away_team": "117",
+    "date": "2026-09-10",
+    "home_logo": "",
+    "home_name": "Philadelphia Phillies",
+    "home_score": 1,
+    "home_team": "143",
+    "id": "mlb-823413",
+    "start_time": "2026-09-10T17:05:00Z"
+  },
+  {
+    "away_logo": "",
+    "away_name": "Texas Rangers",
+    "away_score": 3,
+    "away_team": "140",
+    "date": "2026-09-10",
+    "home_logo": "",
+    "home_name": "Seattle Mariners",
+    "home_score": 4,
+    "home_team": "136",
+    "id": "mlb-823088",
+    "start_time": "2026-09-10T20:10:00Z"
+  },
+  {
+    "away_logo": "",
+    "away_name": "Colorado Rockies",
+    "away_score": 3,
+    "away_team": "115",
+    "date": "2026-09-10",
+    "home_logo": "",
+    "home_name": "New York Yankees",
+    "home_score": 10,
+    "home_team": "147",
+    "id": "mlb-823499",
+    "start_time": "2026-09-10T23:05:00Z"
+  },
+  {
+    "away_logo": "",
+    "away_name": "Pittsburgh Pirates",
+    "away_score": 2,
+    "away_team": "134",
+    "date": "2026-09-10",
+    "home_logo": "",
+    "home_name": "Chicago White Sox",
+    "home_score": 0,
+    "home_team": "145",
+    "id": "mlb-824550",
+    "start_time": "2026-09-10T23:40:00Z"
   }
 ]
