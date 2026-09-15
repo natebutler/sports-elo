@@ -193,5 +193,18 @@
     "home_team": "NYG",
     "id": "nfl-401872930",
     "start_time": "2026-09-14T00:20Z"
+  },
+  {
+    "away_logo": "",
+    "away_name": "Denver Broncos",
+    "away_score": 10,
+    "away_team": "DEN",
+    "date": "2026-09-15",
+    "home_logo": "",
+    "home_name": "Kansas City Chiefs",
+    "home_score": 31,
+    "home_team": "KC",
+    "id": "nfl-401872931",
+    "start_time": "2026-09-15T00:15Z"
   }
 ]
