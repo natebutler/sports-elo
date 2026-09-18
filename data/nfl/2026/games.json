@@ -206,5 +206,18 @@
     "home_team": "KC",
     "id": "nfl-401872931",
     "start_time": "2026-09-15T00:15Z"
+  },
+  {
+    "away_logo": "",
+    "away_name": "Detroit Lions",
+    "away_score": 31,
+    "away_team": "DET",
+    "date": "2026-09-18",
+    "home_logo": "",
+    "home_name": "Buffalo Bills",
+    "home_score": 41,
+    "home_team": "BUF",
+    "id": "nfl-401872932",
+    "start_time": "2026-09-18T00:15Z"
   }
 ]

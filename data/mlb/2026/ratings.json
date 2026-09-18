@@ -1,5 +1,5 @@
 {
-  "changed_from": "2026-09-16",
+  "changed_from": "2026-09-17",
   "checkpoints": [
     {
       "checkpoint": "2026-03-01",
@@ -100415,44 +100415,610 @@
           "wins": 65
         }
       ]
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "teams": [
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 70,
+          "name": "Milwaukee Brewers",
+          "rank": 1,
+          "rating": 1567.2,
+          "team": "158",
+          "ties": 0,
+          "wins": 105
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 66,
+          "name": "Los Angeles Dodgers",
+          "rank": 2,
+          "rating": 1559.9,
+          "team": "119",
+          "ties": 2,
+          "wins": 108
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 73,
+          "name": "Tampa Bay Rays",
+          "rank": 3,
+          "rating": 1558.6,
+          "team": "139",
+          "ties": 1,
+          "wins": 101
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 74,
+          "name": "New York Yankees",
+          "rank": 4,
+          "rating": 1546.6,
+          "team": "147",
+          "ties": 0,
+          "wins": 101
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 69,
+          "name": "Atlanta Braves",
+          "rank": 5,
+          "rating": 1545.3,
+          "team": "144",
+          "ties": 2,
+          "wins": 105
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 79,
+          "name": "San Diego Padres",
+          "rank": 6,
+          "rating": 1539.0,
+          "team": "135",
+          "ties": 2,
+          "wins": 95
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 81,
+          "name": "Philadelphia Phillies",
+          "rank": 7,
+          "rating": 1537.1,
+          "team": "143",
+          "ties": 1,
+          "wins": 92
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 84,
+          "name": "Boston Red Sox",
+          "rank": 8,
+          "rating": 1532.9,
+          "team": "111",
+          "ties": 0,
+          "wins": 91
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 81,
+          "name": "Chicago Cubs",
+          "rank": 9,
+          "rating": 1529.5,
+          "team": "112",
+          "ties": 0,
+          "wins": 95
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 85,
+          "name": "Arizona Diamondbacks",
+          "rank": 10,
+          "rating": 1514.9,
+          "team": "109",
+          "ties": 1,
+          "wins": 90
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 85,
+          "name": "Toronto Blue Jays",
+          "rank": 11,
+          "rating": 1510.6,
+          "team": "141",
+          "ties": 1,
+          "wins": 87
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 85,
+          "name": "Houston Astros",
+          "rank": 12,
+          "rating": 1509.8,
+          "team": "117",
+          "ties": 1,
+          "wins": 90
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 0,
+          "name": "Kingdom of the Netherlands",
+          "rank": 13,
+          "rating": 1507.0,
+          "team": "878",
+          "ties": 0,
+          "wins": 2
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 0,
+          "name": "United States",
+          "rank": 14,
+          "rating": 1507.0,
+          "team": "940",
+          "ties": 0,
+          "wins": 2
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 88,
+          "name": "Pittsburgh Pirates",
+          "rank": 15,
+          "rating": 1504.6,
+          "team": "134",
+          "ties": 0,
+          "wins": 87
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 0,
+          "name": "Sacramento River Cats",
+          "rank": 16,
+          "rating": 1503.6,
+          "team": "105",
+          "ties": 0,
+          "wins": 1
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 0,
+          "name": "American League All-Stars",
+          "rank": 17,
+          "rating": 1503.5,
+          "team": "159",
+          "ties": 0,
+          "wins": 1
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 0,
+          "name": "Great Britain",
+          "rank": 18,
+          "rating": 1503.4,
+          "team": "821",
+          "ties": 1,
+          "wins": 1
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 0,
+          "name": "Dominican Republic",
+          "rank": 19,
+          "rating": 1503.4,
+          "team": "805",
+          "ties": 1,
+          "wins": 1
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 84,
+          "name": "Cleveland Guardians",
+          "rank": 20,
+          "rating": 1503.4,
+          "team": "114",
+          "ties": 1,
+          "wins": 90
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 88,
+          "name": "Baltimore Orioles",
+          "rank": 21,
+          "rating": 1501.2,
+          "team": "110",
+          "ties": 2,
+          "wins": 84
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 84,
+          "name": "Texas Rangers",
+          "rank": 22,
+          "rating": 1500.5,
+          "team": "140",
+          "ties": 0,
+          "wins": 90
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 1,
+          "name": "Mexico",
+          "rank": 23,
+          "rating": 1500.1,
+          "team": "867",
+          "ties": 0,
+          "wins": 1
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 1,
+          "name": "Canada",
+          "rank": 24,
+          "rating": 1500.0,
+          "team": "784",
+          "ties": 0,
+          "wins": 1
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 1,
+          "name": "Nicaragua",
+          "rank": 25,
+          "rating": 1500.0,
+          "team": "881",
+          "ties": 0,
+          "wins": 1
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 1,
+          "name": "Israel",
+          "rank": 26,
+          "rating": 1500.0,
+          "team": "840",
+          "ties": 0,
+          "wins": 1
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 1,
+          "name": "Italy",
+          "rank": 27,
+          "rating": 1499.9,
+          "team": "841",
+          "ties": 0,
+          "wins": 1
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 1,
+          "name": "Puerto Rico",
+          "rank": 28,
+          "rating": 1499.9,
+          "team": "897",
+          "ties": 0,
+          "wins": 1
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 87,
+          "name": "Chicago White Sox",
+          "rank": 29,
+          "rating": 1498.7,
+          "team": "145",
+          "ties": 1,
+          "wins": 87
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 86,
+          "name": "Miami Marlins",
+          "rank": 30,
+          "rating": 1498.0,
+          "team": "146",
+          "ties": 3,
+          "wins": 84
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 1,
+          "name": "Springfield Cardinals",
+          "rank": 31,
+          "rating": 1496.7,
+          "team": "440",
+          "ties": 0,
+          "wins": 0
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 1,
+          "name": "National League All-Stars",
+          "rank": 32,
+          "rating": 1496.5,
+          "team": "160",
+          "ties": 0,
+          "wins": 0
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 2,
+          "name": "Sultanes de Monterrey",
+          "rank": 33,
+          "rating": 1493.3,
+          "team": "562",
+          "ties": 0,
+          "wins": 0
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 2,
+          "name": "Colombia",
+          "rank": 34,
+          "rating": 1493.2,
+          "team": "792",
+          "ties": 0,
+          "wins": 0
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 2,
+          "name": "Brazil",
+          "rank": 35,
+          "rating": 1493.2,
+          "team": "776",
+          "ties": 0,
+          "wins": 0
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 2,
+          "name": "Sugar Land Space Cowboys",
+          "rank": 36,
+          "rating": 1493.2,
+          "team": "5434",
+          "ties": 0,
+          "wins": 0
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 2,
+          "name": "Panama",
+          "rank": 37,
+          "rating": 1493.0,
+          "team": "890",
+          "ties": 0,
+          "wins": 0
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 2,
+          "name": "Cuba",
+          "rank": 38,
+          "rating": 1493.0,
+          "team": "798",
+          "ties": 0,
+          "wins": 0
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 2,
+          "name": "Venezuela",
+          "rank": 39,
+          "rating": 1493.0,
+          "team": "944",
+          "ties": 0,
+          "wins": 0
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 94,
+          "name": "New York Mets",
+          "rank": 40,
+          "rating": 1489.0,
+          "team": "121",
+          "ties": 1,
+          "wins": 79
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 85,
+          "name": "St. Louis Cardinals",
+          "rank": 41,
+          "rating": 1486.8,
+          "team": "138",
+          "ties": 2,
+          "wins": 88
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 90,
+          "name": "Detroit Tigers",
+          "rank": 42,
+          "rating": 1483.1,
+          "team": "116",
+          "ties": 5,
+          "wins": 80
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 96,
+          "name": "Cincinnati Reds",
+          "rank": 43,
+          "rating": 1479.1,
+          "team": "113",
+          "ties": 0,
+          "wins": 82
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 91,
+          "name": "Washington Nationals",
+          "rank": 44,
+          "rating": 1471.2,
+          "team": "120",
+          "ties": 1,
+          "wins": 81
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 93,
+          "name": "Minnesota Twins",
+          "rank": 45,
+          "rating": 1469.1,
+          "team": "142",
+          "ties": 1,
+          "wins": 81
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 96,
+          "name": "Seattle Mariners",
+          "rank": 46,
+          "rating": 1468.4,
+          "team": "136",
+          "ties": 0,
+          "wins": 79
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 103,
+          "name": "Kansas City Royals",
+          "rank": 47,
+          "rating": 1466.6,
+          "team": "118",
+          "ties": 0,
+          "wins": 73
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 98,
+          "name": "San Francisco Giants",
+          "rank": 48,
+          "rating": 1462.3,
+          "team": "137",
+          "ties": 1,
+          "wins": 79
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 103,
+          "name": "Los Angeles Angels",
+          "rank": 49,
+          "rating": 1440.1,
+          "team": "108",
+          "ties": 1,
+          "wins": 74
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 102,
+          "name": "Athletics",
+          "rank": 50,
+          "rating": 1436.7,
+          "team": "133",
+          "ties": 1,
+          "wins": 75
+        },
+        {
+          "checkpoint": "2026-09-17",
+          "logo": "",
+          "losses": 110,
+          "name": "Colorado Rockies",
+          "rank": 51,
+          "rating": 1416.9,
+          "team": "115",
+          "ties": 1,
+          "wins": 65
+        }
+      ]
     }
   ],
   "current": [
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
-      "losses": 69,
+      "losses": 70,
       "name": "Milwaukee Brewers",
       "rank": 1,
-      "rating": 1571.4,
+      "rating": 1567.2,
       "team": "158",
       "ties": 0,
       "wins": 105
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 66,
       "name": "Los Angeles Dodgers",
       "rank": 2,
-      "rating": 1557.1,
+      "rating": 1559.9,
       "team": "119",
       "ties": 2,
-      "wins": 107
+      "wins": 108
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 73,
       "name": "Tampa Bay Rays",
       "rank": 3,
-      "rating": 1556.2,
+      "rating": 1558.6,
       "team": "139",
       "ties": 1,
-      "wins": 100
+      "wins": 101
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 74,
       "name": "New York Yankees",
@@ -100463,7 +101029,7 @@
       "wins": 101
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 69,
       "name": "Atlanta Braves",
@@ -100474,40 +101040,40 @@
       "wins": 105
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 79,
       "name": "San Diego Padres",
       "rank": 6,
-      "rating": 1536.6,
+      "rating": 1539.0,
       "team": "135",
       "ties": 2,
-      "wins": 94
+      "wins": 95
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 81,
       "name": "Philadelphia Phillies",
       "rank": 7,
-      "rating": 1534.0,
+      "rating": 1537.1,
       "team": "143",
       "ties": 1,
-      "wins": 91
+      "wins": 92
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 84,
       "name": "Boston Red Sox",
       "rank": 8,
-      "rating": 1529.7,
+      "rating": 1532.9,
       "team": "111",
       "ties": 0,
-      "wins": 90
+      "wins": 91
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 81,
       "name": "Chicago Cubs",
@@ -100518,7 +101084,7 @@
       "wins": 95
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 85,
       "name": "Arizona Diamondbacks",
@@ -100529,7 +101095,7 @@
       "wins": 90
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 85,
       "name": "Toronto Blue Jays",
@@ -100540,51 +101106,51 @@
       "wins": 87
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 85,
+      "name": "Houston Astros",
+      "rank": 12,
+      "rating": 1509.8,
+      "team": "117",
+      "ties": 1,
+      "wins": 90
+    },
+    {
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 0,
       "name": "Kingdom of the Netherlands",
-      "rank": 12,
+      "rank": 13,
       "rating": 1507.0,
       "team": "878",
       "ties": 0,
       "wins": 2
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 0,
       "name": "United States",
-      "rank": 13,
+      "rank": 14,
       "rating": 1507.0,
       "team": "940",
       "ties": 0,
       "wins": 2
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
-      "losses": 85,
-      "name": "Houston Astros",
-      "rank": 14,
-      "rating": 1506.7,
-      "team": "117",
-      "ties": 1,
-      "wins": 89
-    },
-    {
-      "checkpoint": "2026-09-16",
-      "logo": "",
-      "losses": 83,
-      "name": "Texas Rangers",
+      "losses": 88,
+      "name": "Pittsburgh Pirates",
       "rank": 15,
-      "rating": 1503.7,
-      "team": "140",
+      "rating": 1504.6,
+      "team": "134",
       "ties": 0,
-      "wins": 90
+      "wins": 87
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 0,
       "name": "Sacramento River Cats",
@@ -100595,7 +101161,7 @@
       "wins": 1
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 0,
       "name": "American League All-Stars",
@@ -100606,7 +101172,7 @@
       "wins": 1
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 0,
       "name": "Great Britain",
@@ -100617,7 +101183,7 @@
       "wins": 1
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 0,
       "name": "Dominican Republic",
@@ -100628,7 +101194,7 @@
       "wins": 1
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 84,
       "name": "Cleveland Guardians",
@@ -100639,7 +101205,7 @@
       "wins": 90
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 88,
       "name": "Baltimore Orioles",
@@ -100650,18 +101216,18 @@
       "wins": 84
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
-      "losses": 88,
-      "name": "Pittsburgh Pirates",
+      "losses": 84,
+      "name": "Texas Rangers",
       "rank": 22,
-      "rating": 1500.4,
-      "team": "134",
+      "rating": 1500.5,
+      "team": "140",
       "ties": 0,
-      "wins": 86
+      "wins": 90
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 1,
       "name": "Mexico",
@@ -100672,7 +101238,7 @@
       "wins": 1
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 1,
       "name": "Canada",
@@ -100683,7 +101249,7 @@
       "wins": 1
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 1,
       "name": "Nicaragua",
@@ -100694,7 +101260,7 @@
       "wins": 1
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 1,
       "name": "Israel",
@@ -100705,7 +101271,7 @@
       "wins": 1
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 1,
       "name": "Italy",
@@ -100716,7 +101282,7 @@
       "wins": 1
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 1,
       "name": "Puerto Rico",
@@ -100727,51 +101293,51 @@
       "wins": 1
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 87,
+      "name": "Chicago White Sox",
+      "rank": 29,
+      "rating": 1498.7,
+      "team": "145",
+      "ties": 1,
+      "wins": 87
+    },
+    {
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 86,
       "name": "Miami Marlins",
-      "rank": 29,
+      "rank": 30,
       "rating": 1498.0,
       "team": "146",
       "ties": 3,
       "wins": 84
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 1,
       "name": "Springfield Cardinals",
-      "rank": 30,
+      "rank": 31,
       "rating": 1496.7,
       "team": "440",
       "ties": 0,
       "wins": 0
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 1,
       "name": "National League All-Stars",
-      "rank": 31,
+      "rank": 32,
       "rating": 1496.5,
       "team": "160",
       "ties": 0,
       "wins": 0
     },
     {
-      "checkpoint": "2026-09-16",
-      "logo": "",
-      "losses": 87,
-      "name": "Chicago White Sox",
-      "rank": 32,
-      "rating": 1495.3,
-      "team": "145",
-      "ties": 1,
-      "wins": 86
-    },
-    {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 2,
       "name": "Sultanes de Monterrey",
@@ -100782,7 +101348,7 @@
       "wins": 0
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 2,
       "name": "Colombia",
@@ -100793,7 +101359,7 @@
       "wins": 0
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 2,
       "name": "Brazil",
@@ -100804,7 +101370,7 @@
       "wins": 0
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 2,
       "name": "Sugar Land Space Cowboys",
@@ -100815,7 +101381,7 @@
       "wins": 0
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 2,
       "name": "Panama",
@@ -100826,7 +101392,7 @@
       "wins": 0
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 2,
       "name": "Cuba",
@@ -100837,7 +101403,7 @@
       "wins": 0
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 2,
       "name": "Venezuela",
@@ -100848,18 +101414,18 @@
       "wins": 0
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
-      "losses": 93,
+      "losses": 94,
       "name": "New York Mets",
       "rank": 40,
-      "rating": 1492.1,
+      "rating": 1489.0,
       "team": "121",
       "ties": 1,
       "wins": 79
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 85,
       "name": "St. Louis Cardinals",
@@ -100870,73 +101436,73 @@
       "wins": 88
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
-      "losses": 89,
+      "losses": 90,
       "name": "Detroit Tigers",
       "rank": 42,
-      "rating": 1486.5,
+      "rating": 1483.1,
       "team": "116",
       "ties": 5,
       "wins": 80
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
-      "losses": 95,
+      "losses": 96,
       "name": "Cincinnati Reds",
       "rank": 43,
-      "rating": 1481.9,
+      "rating": 1479.1,
       "team": "113",
       "ties": 0,
       "wins": 82
     },
     {
-      "checkpoint": "2026-09-16",
-      "logo": "",
-      "losses": 92,
-      "name": "Minnesota Twins",
-      "rank": 44,
-      "rating": 1473.0,
-      "team": "142",
-      "ties": 1,
-      "wins": 81
-    },
-    {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 91,
       "name": "Washington Nationals",
-      "rank": 45,
+      "rank": 44,
       "rating": 1471.2,
       "team": "120",
       "ties": 1,
       "wins": 81
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
-      "losses": 102,
-      "name": "Kansas City Royals",
-      "rank": 46,
-      "rating": 1469.7,
-      "team": "118",
-      "ties": 0,
-      "wins": 73
+      "losses": 93,
+      "name": "Minnesota Twins",
+      "rank": 45,
+      "rating": 1469.1,
+      "team": "142",
+      "ties": 1,
+      "wins": 81
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 96,
       "name": "Seattle Mariners",
-      "rank": 47,
+      "rank": 46,
       "rating": 1468.4,
       "team": "136",
       "ties": 0,
       "wins": 79
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 103,
+      "name": "Kansas City Royals",
+      "rank": 47,
+      "rating": 1466.6,
+      "team": "118",
+      "ties": 0,
+      "wins": 73
+    },
+    {
+      "checkpoint": "2026-09-17",
       "logo": "",
       "losses": 98,
       "name": "San Francisco Giants",
@@ -100947,40 +101513,40 @@
       "wins": 79
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
-      "losses": 101,
-      "name": "Athletics",
+      "losses": 103,
+      "name": "Los Angeles Angels",
       "rank": 49,
-      "rating": 1439.1,
+      "rating": 1440.1,
+      "team": "108",
+      "ties": 1,
+      "wins": 74
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 102,
+      "name": "Athletics",
+      "rank": 50,
+      "rating": 1436.7,
       "team": "133",
       "ties": 1,
       "wins": 75
     },
     {
-      "checkpoint": "2026-09-16",
+      "checkpoint": "2026-09-17",
       "logo": "",
-      "losses": 103,
-      "name": "Los Angeles Angels",
-      "rank": 50,
-      "rating": 1436.2,
-      "team": "108",
-      "ties": 1,
-      "wins": 73
-    },
-    {
-      "checkpoint": "2026-09-16",
-      "logo": "",
-      "losses": 109,
+      "losses": 110,
       "name": "Colorado Rockies",
       "rank": 51,
-      "rating": 1419.3,
+      "rating": 1416.9,
       "team": "115",
       "ties": 1,
       "wins": 65
     }
   ],
-  "generated_at": "2026-09-17T14:30:12.273853+00:00",
+  "generated_at": "2026-09-18T13:56:21.225419+00:00",
   "history": [
     {
       "checkpoint": "2026-03-01",
@@ -200403,6 +200969,567 @@
       "name": "Colorado Rockies",
       "rank": 51,
       "rating": 1419.3,
+      "team": "115",
+      "ties": 1,
+      "wins": 65
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 70,
+      "name": "Milwaukee Brewers",
+      "rank": 1,
+      "rating": 1567.2,
+      "team": "158",
+      "ties": 0,
+      "wins": 105
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 66,
+      "name": "Los Angeles Dodgers",
+      "rank": 2,
+      "rating": 1559.9,
+      "team": "119",
+      "ties": 2,
+      "wins": 108
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 73,
+      "name": "Tampa Bay Rays",
+      "rank": 3,
+      "rating": 1558.6,
+      "team": "139",
+      "ties": 1,
+      "wins": 101
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 74,
+      "name": "New York Yankees",
+      "rank": 4,
+      "rating": 1546.6,
+      "team": "147",
+      "ties": 0,
+      "wins": 101
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 69,
+      "name": "Atlanta Braves",
+      "rank": 5,
+      "rating": 1545.3,
+      "team": "144",
+      "ties": 2,
+      "wins": 105
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 79,
+      "name": "San Diego Padres",
+      "rank": 6,
+      "rating": 1539.0,
+      "team": "135",
+      "ties": 2,
+      "wins": 95
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 81,
+      "name": "Philadelphia Phillies",
+      "rank": 7,
+      "rating": 1537.1,
+      "team": "143",
+      "ties": 1,
+      "wins": 92
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 84,
+      "name": "Boston Red Sox",
+      "rank": 8,
+      "rating": 1532.9,
+      "team": "111",
+      "ties": 0,
+      "wins": 91
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 81,
+      "name": "Chicago Cubs",
+      "rank": 9,
+      "rating": 1529.5,
+      "team": "112",
+      "ties": 0,
+      "wins": 95
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 85,
+      "name": "Arizona Diamondbacks",
+      "rank": 10,
+      "rating": 1514.9,
+      "team": "109",
+      "ties": 1,
+      "wins": 90
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 85,
+      "name": "Toronto Blue Jays",
+      "rank": 11,
+      "rating": 1510.6,
+      "team": "141",
+      "ties": 1,
+      "wins": 87
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 85,
+      "name": "Houston Astros",
+      "rank": 12,
+      "rating": 1509.8,
+      "team": "117",
+      "ties": 1,
+      "wins": 90
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 0,
+      "name": "Kingdom of the Netherlands",
+      "rank": 13,
+      "rating": 1507.0,
+      "team": "878",
+      "ties": 0,
+      "wins": 2
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 0,
+      "name": "United States",
+      "rank": 14,
+      "rating": 1507.0,
+      "team": "940",
+      "ties": 0,
+      "wins": 2
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 88,
+      "name": "Pittsburgh Pirates",
+      "rank": 15,
+      "rating": 1504.6,
+      "team": "134",
+      "ties": 0,
+      "wins": 87
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 0,
+      "name": "Sacramento River Cats",
+      "rank": 16,
+      "rating": 1503.6,
+      "team": "105",
+      "ties": 0,
+      "wins": 1
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 0,
+      "name": "American League All-Stars",
+      "rank": 17,
+      "rating": 1503.5,
+      "team": "159",
+      "ties": 0,
+      "wins": 1
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 0,
+      "name": "Great Britain",
+      "rank": 18,
+      "rating": 1503.4,
+      "team": "821",
+      "ties": 1,
+      "wins": 1
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 0,
+      "name": "Dominican Republic",
+      "rank": 19,
+      "rating": 1503.4,
+      "team": "805",
+      "ties": 1,
+      "wins": 1
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 84,
+      "name": "Cleveland Guardians",
+      "rank": 20,
+      "rating": 1503.4,
+      "team": "114",
+      "ties": 1,
+      "wins": 90
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 88,
+      "name": "Baltimore Orioles",
+      "rank": 21,
+      "rating": 1501.2,
+      "team": "110",
+      "ties": 2,
+      "wins": 84
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 84,
+      "name": "Texas Rangers",
+      "rank": 22,
+      "rating": 1500.5,
+      "team": "140",
+      "ties": 0,
+      "wins": 90
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 1,
+      "name": "Mexico",
+      "rank": 23,
+      "rating": 1500.1,
+      "team": "867",
+      "ties": 0,
+      "wins": 1
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 1,
+      "name": "Canada",
+      "rank": 24,
+      "rating": 1500.0,
+      "team": "784",
+      "ties": 0,
+      "wins": 1
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 1,
+      "name": "Nicaragua",
+      "rank": 25,
+      "rating": 1500.0,
+      "team": "881",
+      "ties": 0,
+      "wins": 1
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 1,
+      "name": "Israel",
+      "rank": 26,
+      "rating": 1500.0,
+      "team": "840",
+      "ties": 0,
+      "wins": 1
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 1,
+      "name": "Italy",
+      "rank": 27,
+      "rating": 1499.9,
+      "team": "841",
+      "ties": 0,
+      "wins": 1
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 1,
+      "name": "Puerto Rico",
+      "rank": 28,
+      "rating": 1499.9,
+      "team": "897",
+      "ties": 0,
+      "wins": 1
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 87,
+      "name": "Chicago White Sox",
+      "rank": 29,
+      "rating": 1498.7,
+      "team": "145",
+      "ties": 1,
+      "wins": 87
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 86,
+      "name": "Miami Marlins",
+      "rank": 30,
+      "rating": 1498.0,
+      "team": "146",
+      "ties": 3,
+      "wins": 84
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 1,
+      "name": "Springfield Cardinals",
+      "rank": 31,
+      "rating": 1496.7,
+      "team": "440",
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 1,
+      "name": "National League All-Stars",
+      "rank": 32,
+      "rating": 1496.5,
+      "team": "160",
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 2,
+      "name": "Sultanes de Monterrey",
+      "rank": 33,
+      "rating": 1493.3,
+      "team": "562",
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 2,
+      "name": "Colombia",
+      "rank": 34,
+      "rating": 1493.2,
+      "team": "792",
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 2,
+      "name": "Brazil",
+      "rank": 35,
+      "rating": 1493.2,
+      "team": "776",
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 2,
+      "name": "Sugar Land Space Cowboys",
+      "rank": 36,
+      "rating": 1493.2,
+      "team": "5434",
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 2,
+      "name": "Panama",
+      "rank": 37,
+      "rating": 1493.0,
+      "team": "890",
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 2,
+      "name": "Cuba",
+      "rank": 38,
+      "rating": 1493.0,
+      "team": "798",
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 2,
+      "name": "Venezuela",
+      "rank": 39,
+      "rating": 1493.0,
+      "team": "944",
+      "ties": 0,
+      "wins": 0
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 94,
+      "name": "New York Mets",
+      "rank": 40,
+      "rating": 1489.0,
+      "team": "121",
+      "ties": 1,
+      "wins": 79
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 85,
+      "name": "St. Louis Cardinals",
+      "rank": 41,
+      "rating": 1486.8,
+      "team": "138",
+      "ties": 2,
+      "wins": 88
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 90,
+      "name": "Detroit Tigers",
+      "rank": 42,
+      "rating": 1483.1,
+      "team": "116",
+      "ties": 5,
+      "wins": 80
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 96,
+      "name": "Cincinnati Reds",
+      "rank": 43,
+      "rating": 1479.1,
+      "team": "113",
+      "ties": 0,
+      "wins": 82
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 91,
+      "name": "Washington Nationals",
+      "rank": 44,
+      "rating": 1471.2,
+      "team": "120",
+      "ties": 1,
+      "wins": 81
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 93,
+      "name": "Minnesota Twins",
+      "rank": 45,
+      "rating": 1469.1,
+      "team": "142",
+      "ties": 1,
+      "wins": 81
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 96,
+      "name": "Seattle Mariners",
+      "rank": 46,
+      "rating": 1468.4,
+      "team": "136",
+      "ties": 0,
+      "wins": 79
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 103,
+      "name": "Kansas City Royals",
+      "rank": 47,
+      "rating": 1466.6,
+      "team": "118",
+      "ties": 0,
+      "wins": 73
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 98,
+      "name": "San Francisco Giants",
+      "rank": 48,
+      "rating": 1462.3,
+      "team": "137",
+      "ties": 1,
+      "wins": 79
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 103,
+      "name": "Los Angeles Angels",
+      "rank": 49,
+      "rating": 1440.1,
+      "team": "108",
+      "ties": 1,
+      "wins": 74
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 102,
+      "name": "Athletics",
+      "rank": 50,
+      "rating": 1436.7,
+      "team": "133",
+      "ties": 1,
+      "wins": 75
+    },
+    {
+      "checkpoint": "2026-09-17",
+      "logo": "",
+      "losses": 110,
+      "name": "Colorado Rockies",
+      "rank": 51,
+      "rating": 1416.9,
       "team": "115",
       "ties": 1,
       "wins": 65
