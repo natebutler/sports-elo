@@ -1,5 +1,5 @@
 {
-  "changed_from": "2026-09-18",
+  "changed_from": null,
   "checkpoints": [
     {
       "checkpoint": "2026-W37",
@@ -998,7 +998,7 @@
       "wins": 0
     }
   ],
-  "generated_at": "2026-09-18T13:56:21.807122+00:00",
+  "generated_at": "2026-09-19T13:31:45.720306+00:00",
   "history": [
     {
       "checkpoint": "2026-W37",
