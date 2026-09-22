@@ -401,5 +401,18 @@
     "home_team": "KC",
     "id": "nfl-401872945",
     "start_time": "2026-09-21T00:20Z"
+  },
+  {
+    "away_logo": "",
+    "away_name": "New York Giants",
+    "away_score": 6,
+    "away_team": "NYG",
+    "date": "2026-09-22",
+    "home_logo": "",
+    "home_name": "Los Angeles Rams",
+    "home_score": 28,
+    "home_team": "LAR",
+    "id": "nfl-401872947",
+    "start_time": "2026-09-22T00:15Z"
   }
 ]
