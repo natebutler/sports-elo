@@ -414,5 +414,18 @@
     "home_team": "LAR",
     "id": "nfl-401872947",
     "start_time": "2026-09-22T00:15Z"
+  },
+  {
+    "away_logo": "",
+    "away_name": "Atlanta Falcons",
+    "away_score": 35,
+    "away_team": "ATL",
+    "date": "2026-09-25",
+    "home_logo": "",
+    "home_name": "Green Bay Packers",
+    "home_score": 14,
+    "home_team": "GB",
+    "id": "nfl-401872948",
+    "start_time": "2026-09-25T00:15Z"
   }
 ]
